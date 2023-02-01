@@ -6,7 +6,7 @@ import logo from './logo.png';
 
 function Header() {
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="dark" variant="dark">
             <Container>
                 <img
                     alt=""
