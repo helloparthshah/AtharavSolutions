@@ -4,12 +4,16 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 function Home() {
+    function handleSubmit(event) {
+        event.preventDefault();
+        console.log(event.target[0].value);
+    }
     return (
         <Container fluid="md" className='cont'>
             <Container>
                 <Row>
                     <Col fluid>
-                        <Form>
+                        <Form onSubmit={handleSubmit}>
                             <Form.Group className="mb-3" controlId="formCode">
                                 <Form.Label>Enter Code:</Form.Label>
                                 <Form.Control as="textarea" rows="10" type="text" placeholder="Code" />
