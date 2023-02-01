@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AtharavSolutions/static/css/main.8ded2734.css",
-    "main.js": "/AtharavSolutions/static/js/main.f745ed49.js",
+    "main.js": "/AtharavSolutions/static/js/main.3590648f.js",
     "static/js/787.c4c513c7.chunk.js": "/AtharavSolutions/static/js/787.c4c513c7.chunk.js",
     "static/media/logo.png": "/AtharavSolutions/static/media/logo.ca0136b356b826e1e771.png",
     "index.html": "/AtharavSolutions/index.html",
     "main.8ded2734.css.map": "/AtharavSolutions/static/css/main.8ded2734.css.map",
-    "main.f745ed49.js.map": "/AtharavSolutions/static/js/main.f745ed49.js.map",
+    "main.3590648f.js.map": "/AtharavSolutions/static/js/main.3590648f.js.map",
     "787.c4c513c7.chunk.js.map": "/AtharavSolutions/static/js/787.c4c513c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ded2734.css",
-    "static/js/main.f745ed49.js"
+    "static/js/main.3590648f.js"
   ]
 }
