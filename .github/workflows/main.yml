@@ -14,6 +14,7 @@ jobs:
         run: |
             npm install
             npm run-script build
+            echo 'REACT_APP_OPENAI_API_KEY=${{ secrets.REACT_APP_OPENAI_API_KEY }}'
         env:
           REACT_APP_OPENAI_API_KEY: ${{ secrets.REACT_APP_OPENAI_API_KEY }}
       - name: Deploy
