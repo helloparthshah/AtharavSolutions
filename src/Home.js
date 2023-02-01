@@ -10,6 +10,7 @@ const { Configuration, OpenAIApi } = require("openai");
 
 function Home() {
     const [buttonText, setButtonText] = useState("Submit");
+    
 
     const configuration = new Configuration({
         apiKey: process.env.REACT_APP_OPENAI_API_KEY,
