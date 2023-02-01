@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AtharavSolutions/static/css/main.073c9b0a.css",
-    "main.js": "/AtharavSolutions/static/js/main.a0fd31da.js",
+    "main.css": "/AtharavSolutions/static/css/main.8ded2734.css",
+    "main.js": "/AtharavSolutions/static/js/main.5f89ccd4.js",
     "static/js/787.c4c513c7.chunk.js": "/AtharavSolutions/static/js/787.c4c513c7.chunk.js",
-    "static/media/logo.svg": "/AtharavSolutions/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.png": "/AtharavSolutions/static/media/logo.ca0136b356b826e1e771.png",
     "index.html": "/AtharavSolutions/index.html",
-    "main.073c9b0a.css.map": "/AtharavSolutions/static/css/main.073c9b0a.css.map",
-    "main.a0fd31da.js.map": "/AtharavSolutions/static/js/main.a0fd31da.js.map",
+    "main.8ded2734.css.map": "/AtharavSolutions/static/css/main.8ded2734.css.map",
+    "main.5f89ccd4.js.map": "/AtharavSolutions/static/js/main.5f89ccd4.js.map",
     "787.c4c513c7.chunk.js.map": "/AtharavSolutions/static/js/787.c4c513c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a0fd31da.js"
+    "static/css/main.8ded2734.css",
+    "static/js/main.5f89ccd4.js"
   ]
 }
